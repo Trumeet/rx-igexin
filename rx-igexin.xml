@@ -1,0 +1,5 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service">
+  <intent-filter>
+    <action name="com.igexin.sdk.action.refreshis" />
+  </intent-filter>
+</prescription>
